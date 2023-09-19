@@ -44,3 +44,5 @@ A simple console-based Snake game implemented in Python using the curses library
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+[<img src="bmc_qr.png">](https://www.buymeacoffee.com/betazetadev "Buy me a coffee if you liked it")
