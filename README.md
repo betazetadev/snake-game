@@ -2,6 +2,8 @@
 
 A simple console-based Snake game implemented in Python using the curses library.
 
+![Snake Game running in the Linux terminal](snake.png)
+
 ## Getting Started
 
 ### Prerequisites
